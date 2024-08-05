@@ -3,7 +3,7 @@ class Solution:
 
         left, right=0, len(nums)-1
 
-        while left <= right:
+        while left<=right:
 
             mid=left+(right-left)//2
 
@@ -31,3 +31,7 @@ class Solution:
         return -1
 
 
+
+
+
+        
