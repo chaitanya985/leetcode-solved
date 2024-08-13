@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
 ## String
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
 ## Matrix
 |  |
