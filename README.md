@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/chaitanya985/leetcode-solved/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/chaitanya985/leetcode-solved/tree/master/0225-implement-stack-using-queues) |
+| [0355-design-twitter](https://github.com/chaitanya985/leetcode-solved/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/chaitanya985/leetcode-solved/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/chaitanya985/leetcode-solved/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/chaitanya985/leetcode-solved/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/chaitanya985/leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/chaitanya985/leetcode-solved/tree/master/0621-task-scheduler) |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/chaitanya985/leetcode-solved/tree/master/0621-task-scheduler) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/chaitanya985/leetcode-solved/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
