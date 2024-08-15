@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/chaitanya985/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
+| [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -89,9 +91,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sliding Window
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/chaitanya985/leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
