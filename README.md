@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/chaitanya985/leetcode-solved/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0876-hand-of-straights](https://github.com/chaitanya985/leetcode-solved/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/chaitanya985/leetcode-solved/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
 ## String
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/chaitanya985/leetcode-solved/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/chaitanya985/leetcode-solved/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/chaitanya985/leetcode-solved/tree/master/0890-lemonade-change) |
 ## Counting
 |  |
 | ------- |
