@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/chaitanya985/leetcode-solved/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/chaitanya985/leetcode-solved/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/chaitanya985/leetcode-solved/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/chaitanya985/leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/chaitanya985/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0055-jump-game) |
+| [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0678-valid-parenthesis-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/chaitanya985/leetcode-solved/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
