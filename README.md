@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0055-jump-game) |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/chaitanya985/leetcode-solved/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/chaitanya985/leetcode-solved/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -170,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/chaitanya985/leetcode-solved/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
