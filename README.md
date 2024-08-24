@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/chaitanya985/leetcode-solved/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0592-fraction-addition-and-subtraction](https://github.com/chaitanya985/leetcode-solved/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/chaitanya985/leetcode-solved/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/1240-stone-game-ii) |
