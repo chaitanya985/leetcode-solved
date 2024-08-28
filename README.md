@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chaitanya985/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/chaitanya985/leetcode-solved/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/chaitanya985/leetcode-solved/tree/master/0155-min-stack) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chaitanya985/leetcode-solved/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/chaitanya985/leetcode-solved/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/chaitanya985/leetcode-solved/tree/master/0455-assign-cookies) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chaitanya985/leetcode-solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/chaitanya985/leetcode-solved/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/chaitanya985/leetcode-solved/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chaitanya985/leetcode-solved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/chaitanya985/leetcode-solved/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0203-remove-linked-list-elements) |
 ## Graph
 |  |
