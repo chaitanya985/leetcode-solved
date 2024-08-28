@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chaitanya985/leetcode-solved/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/chaitanya985/leetcode-solved/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chaitanya985/leetcode-solved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
