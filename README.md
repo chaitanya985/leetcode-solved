@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/chaitanya985/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0226-invert-binary-tree) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0975-range-sum-of-bst) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0226-invert-binary-tree) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
