@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/chaitanya985/leetcode-solved/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/chaitanya985/leetcode-solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/chaitanya985/leetcode-solved/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/chaitanya985/leetcode-solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/1240-stone-game-ii) |
