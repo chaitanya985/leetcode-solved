@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/chaitanya985/leetcode-solved/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/chaitanya985/leetcode-solved/tree/master/0168-excel-sheet-column-title) |
 | [0424-longest-repeating-character-replacement](https://github.com/chaitanya985/leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0564-find-the-closest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0564-find-the-closest-palindrome) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chaitanya985/leetcode-solved/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/chaitanya985/leetcode-solved/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0283-move-zeroes) |
