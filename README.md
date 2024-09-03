@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/chaitanya985/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/chaitanya985/leetcode-solved/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/chaitanya985/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/chaitanya985/leetcode-solved/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/chaitanya985/leetcode-solved/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0125-valid-palindrome) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/chaitanya985/leetcode-solved/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/chaitanya985/leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/chaitanya985/leetcode-solved/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/chaitanya985/leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/chaitanya985/leetcode-solved/tree/master/0455-assign-cookies) |
