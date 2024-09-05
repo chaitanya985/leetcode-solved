@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chaitanya985/leetcode-solved/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/chaitanya985/leetcode-solved/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/chaitanya985/leetcode-solved/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/chaitanya985/leetcode-solved/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0125-valid-palindrome) |
