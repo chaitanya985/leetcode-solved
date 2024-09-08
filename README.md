@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/chaitanya985/leetcode-solved/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/chaitanya985/leetcode-solved/tree/master/0355-design-twitter) |
+| [0725-split-linked-list-in-parts](https://github.com/chaitanya985/leetcode-solved/tree/master/0725-split-linked-list-in-parts) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chaitanya985/leetcode-solved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chaitanya985/leetcode-solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
