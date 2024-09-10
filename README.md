@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/chaitanya985/leetcode-solved/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/chaitanya985/leetcode-solved/tree/master/1325-path-with-maximum-probability) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/chaitanya985/leetcode-solved/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2803-modify-graph-edge-weights](https://github.com/chaitanya985/leetcode-solved/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Tree
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0876-hand-of-straights](https://github.com/chaitanya985/leetcode-solved/tree/master/0876-hand-of-straights) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/chaitanya985/leetcode-solved/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Sliding Window
 |  |
 | ------- |
