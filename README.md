@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/chaitanya985/leetcode-solved/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/chaitanya985/leetcode-solved/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/chaitanya985/leetcode-solved/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/chaitanya985/leetcode-solved/tree/master/0624-maximum-distance-in-arrays) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/chaitanya985/leetcode-solved/tree/master/0355-design-twitter) |
+| [0506-relative-ranks](https://github.com/chaitanya985/leetcode-solved/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/chaitanya985/leetcode-solved/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/chaitanya985/leetcode-solved/tree/master/1325-path-with-maximum-probability) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/chaitanya985/leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/chaitanya985/leetcode-solved/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/chaitanya985/leetcode-solved/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/chaitanya985/leetcode-solved/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanya985/leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
