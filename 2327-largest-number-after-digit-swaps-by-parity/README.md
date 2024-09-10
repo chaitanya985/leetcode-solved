@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity">Largest Number After Digit Swaps by Parity</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a positive integer <code>num</code>. You may swap any two digits of <code>num</code> that have the same <strong>parity</strong> (i.e. both odd digits or both even digits).</p>
+<h2><a href="https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity">2327. Largest Number After Digit Swaps by Parity</a></h2><h3>Easy</h3><hr><p>You are given a positive integer <code>num</code>. You may swap any two digits of <code>num</code> that have the same <strong>parity</strong> (i.e. both odd digits or both even digits).</p>
 
 <p>Return<em> the <strong>largest</strong> possible value of </em><code>num</code><em> after <strong>any</strong> number of swaps.</em></p>
 
