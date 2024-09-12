@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/chaitanya985/leetcode-solved/tree/master/0168-excel-sheet-column-title) |
+| [0257-binary-tree-paths](https://github.com/chaitanya985/leetcode-solved/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/chaitanya985/leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0564-find-the-closest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0564-find-the-closest-palindrome) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/chaitanya985/leetcode-solved/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/chaitanya985/leetcode-solved/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/chaitanya985/leetcode-solved/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/chaitanya985/leetcode-solved/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0543-diameter-of-binary-tree) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/chaitanya985/leetcode-solved/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/chaitanya985/leetcode-solved/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0543-diameter-of-binary-tree) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/chaitanya985/leetcode-solved/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/chaitanya985/leetcode-solved/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0543-diameter-of-binary-tree) |
