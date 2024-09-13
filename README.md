@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/chaitanya985/leetcode-solved/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/chaitanya985/leetcode-solved/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0102-binary-tree-level-order-traversal) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0102-binary-tree-level-order-traversal) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/chaitanya985/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0055-jump-game) |
+| [0095-unique-binary-search-trees-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0152-maximum-product-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0392-is-subsequence) |
