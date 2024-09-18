@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/chaitanya985/leetcode-solved/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanya985/leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/chaitanya985/leetcode-solved/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/chaitanya985/leetcode-solved/tree/master/0739-daily-temperatures) |
 | [0876-hand-of-straights](https://github.com/chaitanya985/leetcode-solved/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/chaitanya985/leetcode-solved/tree/master/0890-lemonade-change) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chaitanya985/leetcode-solved/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/chaitanya985/leetcode-solved/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/chaitanya985/leetcode-solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/1435-xor-queries-of-a-subarray) |
