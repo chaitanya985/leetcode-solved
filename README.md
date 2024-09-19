@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/chaitanya985/leetcode-solved/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/chaitanya985/leetcode-solved/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/chaitanya985/leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/chaitanya985/leetcode-solved/tree/master/0647-palindromic-substrings) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/chaitanya985/leetcode-solved/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0202-happy-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chaitanya985/leetcode-solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/chaitanya985/leetcode-solved/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0203-remove-linked-list-elements) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1013-fibonacci-number) |
 ## Graph
 |  |
@@ -520,5 +524,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
