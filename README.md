@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/chaitanya985/leetcode-solved/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/chaitanya985/leetcode-solved/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0392-is-subsequence) |
@@ -507,10 +508,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0572-subtree-of-another-tree) |
 ## Randomized
 |  |
@@ -529,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1013-fibonacci-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
