@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/chaitanya985/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/chaitanya985/leetcode-solved/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/chaitanya985/leetcode-solved/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/chaitanya985/leetcode-solved/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/chaitanya985/leetcode-solved/tree/master/0054-spiral-matrix) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/chaitanya985/leetcode-solved/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/chaitanya985/leetcode-solved/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0095-unique-binary-search-trees-ii) |
