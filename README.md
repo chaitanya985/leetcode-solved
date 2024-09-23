@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/chaitanya985/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/chaitanya985/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/chaitanya985/leetcode-solved/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/chaitanya985/leetcode-solved/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/chaitanya985/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/chaitanya985/leetcode-solved/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0202-happy-number) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/chaitanya985/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1013-fibonacci-number) |
 ## Rolling Hash
