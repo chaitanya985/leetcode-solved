@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/chaitanya985/leetcode-solved/tree/master/1086-divisor-game) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1240-stone-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/chaitanya985/leetcode-solved/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanya985/leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/chaitanya985/leetcode-solved/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/chaitanya985/leetcode-solved/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chaitanya985/leetcode-solved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/chaitanya985/leetcode-solved/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/1240-stone-game-ii) |
 ## Bit Manipulation
 |  |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/chaitanya985/leetcode-solved/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/chaitanya985/leetcode-solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Memoization
 |  |
