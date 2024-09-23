@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/chaitanya985/leetcode-solved/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/chaitanya985/leetcode-solved/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/chaitanya985/leetcode-solved/tree/master/0650-2-keys-keyboard) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/chaitanya985/leetcode-solved/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0090-subsets-ii) |
+| [0338-counting-bits](https://github.com/chaitanya985/leetcode-solved/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/chaitanya985/leetcode-solved/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chaitanya985/leetcode-solved/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
