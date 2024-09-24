@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chaitanya985/leetcode-solved/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/chaitanya985/leetcode-solved/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/chaitanya985/leetcode-solved/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/chaitanya985/leetcode-solved/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0179-largest-number) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/chaitanya985/leetcode-solved/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/chaitanya985/leetcode-solved/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0124-binary-tree-maximum-path-sum) |
