@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanya985/leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/chaitanya985/leetcode-solved/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/chaitanya985/leetcode-solved/tree/master/0739-daily-temperatures) |
 | [0876-hand-of-straights](https://github.com/chaitanya985/leetcode-solved/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/chaitanya985/leetcode-solved/tree/master/0890-lemonade-change) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/chaitanya985/leetcode-solved/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/chaitanya985/leetcode-solved/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chaitanya985/leetcode-solved/tree/master/0380-insert-delete-getrandom-o1) |
+| [0729-my-calendar-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0975-range-sum-of-bst) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/chaitanya985/leetcode-solved/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -594,4 +597,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chaitanya985/leetcode-solved/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
