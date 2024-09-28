@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/chaitanya985/leetcode-solved/tree/master/0739-daily-temperatures) |
+| [0859-design-circular-deque](https://github.com/chaitanya985/leetcode-solved/tree/master/0859-design-circular-deque) |
 | [0876-hand-of-straights](https://github.com/chaitanya985/leetcode-solved/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/chaitanya985/leetcode-solved/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/chaitanya985/leetcode-solved/tree/master/0906-walking-robot-simulation) |
@@ -173,11 +174,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/chaitanya985/leetcode-solved/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/chaitanya985/leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/chaitanya985/leetcode-solved/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/chaitanya985/leetcode-solved/tree/master/0859-design-circular-deque) |
 ## Tree
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/chaitanya985/leetcode-solved/tree/master/0355-design-twitter) |
 | [0725-split-linked-list-in-parts](https://github.com/chaitanya985/leetcode-solved/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/chaitanya985/leetcode-solved/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chaitanya985/leetcode-solved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/chaitanya985/leetcode-solved/tree/master/2411-spiral-matrix-iv) |
