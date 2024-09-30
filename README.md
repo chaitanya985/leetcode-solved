@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/chaitanya985/leetcode-solved/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/chaitanya985/leetcode-solved/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/chaitanya985/leetcode-solved/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/chaitanya985/leetcode-solved/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0125-valid-palindrome) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/chaitanya985/leetcode-solved/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/chaitanya985/leetcode-solved/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
