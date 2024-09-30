@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/chaitanya985/leetcode-solved/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/chaitanya985/leetcode-solved/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0189-rotate-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/chaitanya985/leetcode-solved/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/chaitanya985/leetcode-solved/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/chaitanya985/leetcode-solved/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0214-shortest-palindrome) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/chaitanya985/leetcode-solved/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/chaitanya985/leetcode-solved/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/chaitanya985/leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/chaitanya985/leetcode-solved/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chaitanya985/leetcode-solved/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/chaitanya985/leetcode-solved/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1013-fibonacci-number) |
 ## Rolling Hash
@@ -639,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/chaitanya985/leetcode-solved/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/chaitanya985/leetcode-solved/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/chaitanya985/leetcode-solved/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/2494-sum-of-prefix-scores-of-strings) |
