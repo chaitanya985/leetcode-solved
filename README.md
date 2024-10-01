@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chaitanya985/leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/chaitanya985/leetcode-solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chaitanya985/leetcode-solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/chaitanya985/leetcode-solved/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/chaitanya985/leetcode-solved/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/chaitanya985/leetcode-solved/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/chaitanya985/leetcode-solved/tree/master/0435-non-overlapping-intervals) |
