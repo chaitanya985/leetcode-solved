@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/chaitanya985/leetcode-solved/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/chaitanya985/leetcode-solved/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/chaitanya985/leetcode-solved/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/chaitanya985/leetcode-solved/tree/master/0435-non-overlapping-intervals) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/chaitanya985/leetcode-solved/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chaitanya985/leetcode-solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/chaitanya985/leetcode-solved/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/chaitanya985/leetcode-solved/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/chaitanya985/leetcode-solved/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/chaitanya985/leetcode-solved/tree/master/0617-merge-two-binary-trees) |
