@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/chaitanya985/leetcode-solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/chaitanya985/leetcode-solved/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/chaitanya985/leetcode-solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/chaitanya985/leetcode-solved/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chaitanya985/leetcode-solved/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/chaitanya985/leetcode-solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/chaitanya985/leetcode-solved/tree/master/1694-make-sum-divisible-by-p) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/chaitanya985/leetcode-solved/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/2755-extra-characters-in-a-string) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chaitanya985/leetcode-solved/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1603-running-sum-of-1d-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1603-running-sum-of-1d-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/chaitanya985/leetcode-solved/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/chaitanya985/leetcode-solved/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
