@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/chaitanya985/leetcode-solved/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/chaitanya985/leetcode-solved/tree/master/0139-word-break) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/chaitanya985/leetcode-solved/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0095-unique-binary-search-trees-ii) |
+| [0119-pascals-triangle-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/chaitanya985/leetcode-solved/tree/master/0139-word-break) |
