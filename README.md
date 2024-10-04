@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/chaitanya985/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/chaitanya985/leetcode-solved/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/chaitanya985/leetcode-solved/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/chaitanya985/leetcode-solved/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/chaitanya985/leetcode-solved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/chaitanya985/leetcode-solved/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/chaitanya985/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/chaitanya985/leetcode-solved/tree/master/0168-excel-sheet-column-title) |
