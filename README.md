@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/chaitanya985/leetcode-solved/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/chaitanya985/leetcode-solved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/chaitanya985/leetcode-solved/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0532-k-diff-pairs-in-an-array) |
