@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/chaitanya985/leetcode-solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/chaitanya985/leetcode-solved/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/chaitanya985/leetcode-solved/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1127-last-stone-weight](https://github.com/chaitanya985/leetcode-solved/tree/master/1127-last-stone-weight) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/chaitanya985/leetcode-solved/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/chaitanya985/leetcode-solved/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/chaitanya985/leetcode-solved/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Heap (Priority Queue)
 |  |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
 |  |
@@ -376,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/chaitanya985/leetcode-solved/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Two Pointers
 |  |
