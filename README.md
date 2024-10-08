@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/chaitanya985/leetcode-solved/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chaitanya985/leetcode-solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/chaitanya985/leetcode-solved/tree/master/0435-non-overlapping-intervals) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/chaitanya985/leetcode-solved/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/chaitanya985/leetcode-solved/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/chaitanya985/leetcode-solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/chaitanya985/leetcode-solved/tree/master/0455-assign-cookies) |
