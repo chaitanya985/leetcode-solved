@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/chaitanya985/leetcode-solved/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/chaitanya985/leetcode-solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/chaitanya985/leetcode-solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/chaitanya985/leetcode-solved/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/2035-count-sub-islands) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/chaitanya985/leetcode-solved/tree/master/1694-make-sum-divisible-by-p) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/chaitanya985/leetcode-solved/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/chaitanya985/leetcode-solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/chaitanya985/leetcode-solved/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chaitanya985/leetcode-solved/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1019-squares-of-a-sorted-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1019-squares-of-a-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/chaitanya985/leetcode-solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/chaitanya985/leetcode-solved/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chaitanya985/leetcode-solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chaitanya985/leetcode-solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/chaitanya985/leetcode-solved/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/chaitanya985/leetcode-solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/chaitanya985/leetcode-solved/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/chaitanya985/leetcode-solved/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
