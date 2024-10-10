@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/chaitanya985/leetcode-solved/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/chaitanya985/leetcode-solved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaitanya985/leetcode-solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/chaitanya985/leetcode-solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/chaitanya985/leetcode-solved/tree/master/1694-make-sum-divisible-by-p) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1240-stone-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/1250-longest-common-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaitanya985/leetcode-solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/chaitanya985/leetcode-solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/chaitanya985/leetcode-solved/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/2755-extra-characters-in-a-string) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chaitanya985/leetcode-solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaitanya985/leetcode-solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
 |  |
 | ------- |
