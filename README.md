@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/chaitanya985/leetcode-solved/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/chaitanya985/leetcode-solved/tree/master/0906-walking-robot-simulation) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/chaitanya985/leetcode-solved/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/chaitanya985/leetcode-solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/chaitanya985/leetcode-solved/tree/master/1036-rotting-oranges) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chaitanya985/leetcode-solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/chaitanya985/leetcode-solved/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/chaitanya985/leetcode-solved/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/chaitanya985/leetcode-solved/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Two Pointers
