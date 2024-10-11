@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1240-stone-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1256-rank-transform-of-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/chaitanya985/leetcode-solved/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/chaitanya985/leetcode-solved/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/chaitanya985/leetcode-solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/1435-xor-queries-of-a-subarray) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/chaitanya985/leetcode-solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/chaitanya985/leetcode-solved/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1256-rank-transform-of-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/chaitanya985/leetcode-solved/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/chaitanya985/leetcode-solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chaitanya985/leetcode-solved/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/chaitanya985/leetcode-solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
