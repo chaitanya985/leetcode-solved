@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/chaitanya985/leetcode-solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chaitanya985/leetcode-solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2470-removing-stars-from-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/2470-removing-stars-from-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chaitanya985/leetcode-solved/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/chaitanya985/leetcode-solved/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chaitanya985/leetcode-solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2470-removing-stars-from-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chaitanya985/leetcode-solved/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/chaitanya985/leetcode-solved/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/chaitanya985/leetcode-solved/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/chaitanya985/leetcode-solved/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chaitanya985/leetcode-solved/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
