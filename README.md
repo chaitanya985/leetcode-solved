@@ -657,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/chaitanya985/leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/chaitanya985/leetcode-solved/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/chaitanya985/leetcode-solved/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/chaitanya985/leetcode-solved/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/chaitanya985/leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/chaitanya985/leetcode-solved/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0871-keys-and-rooms](https://github.com/chaitanya985/leetcode-solved/tree/master/0871-keys-and-rooms) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/chaitanya985/leetcode-solved/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/chaitanya985/leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/chaitanya985/leetcode-solved/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/chaitanya985/leetcode-solved/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/chaitanya985/leetcode-solved/tree/master/1325-path-with-maximum-probability) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/chaitanya985/leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/chaitanya985/leetcode-solved/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/2035-count-sub-islands) |
 ## String Matching
