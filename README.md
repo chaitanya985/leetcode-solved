@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/chaitanya985/leetcode-solved/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/chaitanya985/leetcode-solved/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/chaitanya985/leetcode-solved/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2413-smallest-number-in-infinite-set](https://github.com/chaitanya985/leetcode-solved/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/chaitanya985/leetcode-solved/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/chaitanya985/leetcode-solved/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2413-smallest-number-in-infinite-set](https://github.com/chaitanya985/leetcode-solved/tree/master/2413-smallest-number-in-infinite-set) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chaitanya985/leetcode-solved/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/chaitanya985/leetcode-solved/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/chaitanya985/leetcode-solved/tree/master/2803-modify-graph-edge-weights) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chaitanya985/leetcode-solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/chaitanya985/leetcode-solved/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2413-smallest-number-in-infinite-set](https://github.com/chaitanya985/leetcode-solved/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/chaitanya985/leetcode-solved/tree/master/2428-equal-row-and-column-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/chaitanya985/leetcode-solved/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/2755-extra-characters-in-a-string) |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0731-my-calendar-ii) |
+| [2413-smallest-number-in-infinite-set](https://github.com/chaitanya985/leetcode-solved/tree/master/2413-smallest-number-in-infinite-set) |
 ## Doubly-Linked List
 |  |
 | ------- |
