@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/chaitanya985/leetcode-solved/tree/master/1086-divisor-game) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1236-n-th-tribonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaitanya985/leetcode-solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/chaitanya985/leetcode-solved/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chaitanya985/leetcode-solved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2155-find-missing-observations](https://github.com/chaitanya985/leetcode-solved/tree/master/2155-find-missing-observations) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/chaitanya985/leetcode-solved/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1236-n-th-tribonacci-number) |
 ## Rolling Hash
 |  |
 | ------- |
