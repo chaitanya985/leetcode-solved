@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/chaitanya985/leetcode-solved/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/chaitanya985/leetcode-solved/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/chaitanya985/leetcode-solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/chaitanya985/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/chaitanya985/leetcode-solved/tree/master/0221-maximal-square) |
 | [1036-rotting-oranges](https://github.com/chaitanya985/leetcode-solved/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/chaitanya985/leetcode-solved/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/chaitanya985/leetcode-solved/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/chaitanya985/leetcode-solved/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/chaitanya985/leetcode-solved/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/chaitanya985/leetcode-solved/tree/master/0279-perfect-squares) |
