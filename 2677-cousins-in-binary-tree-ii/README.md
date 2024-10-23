@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/cousins-in-binary-tree-ii">2677. Cousins in Binary Tree II</a></h2><h3>Medium</h3><hr><p>Given the <code>root</code> of a binary tree, replace the value of each node in the tree with the <strong>sum of all its cousins&#39; values</strong>.</p>
+<h2><a href="https://leetcode.com/problems/cousins-in-binary-tree-ii">Cousins in Binary Tree II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given the <code>root</code> of a binary tree, replace the value of each node in the tree with the <strong>sum of all its cousins&#39; values</strong>.</p>
 
 <p>Two nodes of a binary tree are <strong>cousins</strong> if they have the same depth with different parents.</p>
 
