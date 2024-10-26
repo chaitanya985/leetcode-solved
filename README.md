@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/chaitanya985/leetcode-solved/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/chaitanya985/leetcode-solved/tree/master/0747-min-cost-climbing-stairs) |
+| [0867-new-21-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/chaitanya985/leetcode-solved/tree/master/1086-divisor-game) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chaitanya985/leetcode-solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0867-new-21-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chaitanya985/leetcode-solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaitanya985/leetcode-solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/chaitanya985/leetcode-solved/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/chaitanya985/leetcode-solved/tree/master/0670-maximum-swap) |
 | [0856-consecutive-numbers-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0856-consecutive-numbers-sum) |
+| [0867-new-21-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/chaitanya985/leetcode-solved/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -918,4 +921,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0856-consecutive-numbers-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chaitanya985/leetcode-solved/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
