@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/chaitanya985/leetcode-solved/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/chaitanya985/leetcode-solved/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chaitanya985/leetcode-solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1380-number-of-closed-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/1380-number-of-closed-islands) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/chaitanya985/leetcode-solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/chaitanya985/leetcode-solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/1435-xor-queries-of-a-subarray) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/chaitanya985/leetcode-solved/tree/master/0221-maximal-square) |
 | [1036-rotting-oranges](https://github.com/chaitanya985/leetcode-solved/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/chaitanya985/leetcode-solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/chaitanya985/leetcode-solved/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/chaitanya985/leetcode-solved/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/chaitanya985/leetcode-solved/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chaitanya985/leetcode-solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1380-number-of-closed-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/1380-number-of-closed-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/2035-count-sub-islands) |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0871-keys-and-rooms](https://github.com/chaitanya985/leetcode-solved/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/chaitanya985/leetcode-solved/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/1380-number-of-closed-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/2035-count-sub-islands) |
@@ -870,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/chaitanya985/leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/chaitanya985/leetcode-solved/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1380-number-of-closed-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/2035-count-sub-islands) |
 ## String Matching
 |  |
