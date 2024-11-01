@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/chaitanya985/leetcode-solved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/chaitanya985/leetcode-solved/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/chaitanya985/leetcode-solved/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/chaitanya985/leetcode-solved/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0567-permutation-in-string) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/chaitanya985/leetcode-solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0523-continuous-subarray-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/chaitanya985/leetcode-solved/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/chaitanya985/leetcode-solved/tree/master/0592-fraction-addition-and-subtraction) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/chaitanya985/leetcode-solved/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/chaitanya985/leetcode-solved/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0731-my-calendar-ii) |
