@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/chaitanya985/leetcode-solved/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/chaitanya985/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/chaitanya985/leetcode-solved/tree/master/0221-maximal-square) |
 | [1036-rotting-oranges](https://github.com/chaitanya985/leetcode-solved/tree/master/1036-rotting-oranges) |
 | [1380-number-of-closed-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/1380-number-of-closed-islands) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chaitanya985/leetcode-solved/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/chaitanya985/leetcode-solved/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/chaitanya985/leetcode-solved/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/chaitanya985/leetcode-solved/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/chaitanya985/leetcode-solved/tree/master/0322-coin-change) |
@@ -888,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chaitanya985/leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/chaitanya985/leetcode-solved/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1380-number-of-closed-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/1380-number-of-closed-islands) |
