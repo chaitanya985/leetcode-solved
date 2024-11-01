@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/chaitanya985/leetcode-solved/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/chaitanya985/leetcode-solved/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/chaitanya985/leetcode-solved/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chaitanya985/leetcode-solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
