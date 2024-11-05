@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/chaitanya985/leetcode-solved/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/chaitanya985/leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/chaitanya985/leetcode-solved/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/chaitanya985/leetcode-solved/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0564-find-the-closest-palindrome) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/chaitanya985/leetcode-solved/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/chaitanya985/leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/chaitanya985/leetcode-solved/tree/master/0432-all-oone-data-structure) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0523-continuous-subarray-sum) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/chaitanya985/leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chaitanya985/leetcode-solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
