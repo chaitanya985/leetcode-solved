@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaitanya985/leetcode-solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1603-running-sum-of-1d-array) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/chaitanya985/leetcode-solved/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/chaitanya985/leetcode-solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/chaitanya985/leetcode-solved/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/chaitanya985/leetcode-solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1256-rank-transform-of-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chaitanya985/leetcode-solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/chaitanya985/leetcode-solved/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/chaitanya985/leetcode-solved/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/chaitanya985/leetcode-solved/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chaitanya985/leetcode-solved/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1304-longest-happy-string](https://github.com/chaitanya985/leetcode-solved/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chaitanya985/leetcode-solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/chaitanya985/leetcode-solved/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/chaitanya985/leetcode-solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/chaitanya985/leetcode-solved/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
