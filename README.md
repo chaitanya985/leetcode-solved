@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/chaitanya985/leetcode-solved/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chaitanya985/leetcode-solved/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chaitanya985/leetcode-solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chaitanya985/leetcode-solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaitanya985/leetcode-solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/chaitanya985/leetcode-solved/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chaitanya985/leetcode-solved/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/chaitanya985/leetcode-solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/chaitanya985/leetcode-solved/tree/master/3394-minimum-array-end) |
 ## Simulation
 |  |
