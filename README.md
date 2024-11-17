@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/chaitanya985/leetcode-solved/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/chaitanya985/leetcode-solved/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/chaitanya985/leetcode-solved/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/chaitanya985/leetcode-solved/tree/master/0906-walking-robot-simulation) |
 | [0912-random-pick-with-weight](https://github.com/chaitanya985/leetcode-solved/tree/master/0912-random-pick-with-weight) |
 | [0941-sort-array-by-parity](https://github.com/chaitanya985/leetcode-solved/tree/master/0941-sort-array-by-parity) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/chaitanya985/leetcode-solved/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/chaitanya985/leetcode-solved/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/chaitanya985/leetcode-solved/tree/master/0969-number-of-recent-calls) |
 ## Tree
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0731-my-calendar-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/chaitanya985/leetcode-solved/tree/master/0912-random-pick-with-weight) |
 | [0975-range-sum-of-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1046-max-consecutive-ones-iii) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chaitanya985/leetcode-solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanya985/leetcode-solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/chaitanya985/leetcode-solved/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/chaitanya985/leetcode-solved/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/chaitanya985/leetcode-solved/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/chaitanya985/leetcode-solved/tree/master/1304-longest-happy-string) |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chaitanya985/leetcode-solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0867-new-21-game) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chaitanya985/leetcode-solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaitanya985/leetcode-solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -908,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/chaitanya985/leetcode-solved/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/chaitanya985/leetcode-solved/tree/master/0912-random-pick-with-weight) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/chaitanya985/leetcode-solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1046-max-consecutive-ones-iii) |
@@ -1089,4 +1095,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chaitanya985/leetcode-solved/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
