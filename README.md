@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/chaitanya985/leetcode-solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/chaitanya985/leetcode-solved/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/chaitanya985/leetcode-solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1755-defuse-the-bomb](https://github.com/chaitanya985/leetcode-solved/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chaitanya985/leetcode-solved/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chaitanya985/leetcode-solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaitanya985/leetcode-solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1755-defuse-the-bomb](https://github.com/chaitanya985/leetcode-solved/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/chaitanya985/leetcode-solved/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Divide and Conquer
