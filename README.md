@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/chaitanya985/leetcode-solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chaitanya985/leetcode-solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/chaitanya985/leetcode-solved/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/2470-removing-stars-from-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/chaitanya985/leetcode-solved/tree/master/2580-circular-sentence) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/chaitanya985/leetcode-solved/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chaitanya985/leetcode-solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/chaitanya985/leetcode-solved/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chaitanya985/leetcode-solved/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/chaitanya985/leetcode-solved/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chaitanya985/leetcode-solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/chaitanya985/leetcode-solved/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/chaitanya985/leetcode-solved/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chaitanya985/leetcode-solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chaitanya985/leetcode-solved/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
