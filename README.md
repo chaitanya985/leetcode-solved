@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/chaitanya985/leetcode-solved/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/chaitanya985/leetcode-solved/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/chaitanya985/leetcode-solved/tree/master/0382-linked-list-random-node) |
 | [0432-all-oone-data-structure](https://github.com/chaitanya985/leetcode-solved/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/chaitanya985/leetcode-solved/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/chaitanya985/leetcode-solved/tree/master/0859-design-circular-deque) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chaitanya985/leetcode-solved/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/chaitanya985/leetcode-solved/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chaitanya985/leetcode-solved/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/chaitanya985/leetcode-solved/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -1031,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/chaitanya985/leetcode-solved/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/chaitanya985/leetcode-solved/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0384-shuffle-an-array) |
 | [0912-random-pick-with-weight](https://github.com/chaitanya985/leetcode-solved/tree/master/0912-random-pick-with-weight) |
 ## Number Theory
@@ -1109,4 +1112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/chaitanya985/leetcode-solved/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
