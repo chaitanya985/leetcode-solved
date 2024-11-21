@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/chaitanya985/leetcode-solved/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/chaitanya985/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/chaitanya985/leetcode-solved/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/chaitanya985/leetcode-solved/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/chaitanya985/leetcode-solved/tree/master/0068-text-justification) |
