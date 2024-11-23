@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/chaitanya985/leetcode-solved/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chaitanya985/leetcode-solved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/chaitanya985/leetcode-solved/tree/master/0506-relative-ranks) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/chaitanya985/leetcode-solved/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/chaitanya985/leetcode-solved/tree/master/0468-validate-ip-address) |
+| [0474-ones-and-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/chaitanya985/leetcode-solved/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0564-find-the-closest-palindrome) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/chaitanya985/leetcode-solved/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/chaitanya985/leetcode-solved/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/chaitanya985/leetcode-solved/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/chaitanya985/leetcode-solved/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/chaitanya985/leetcode-solved/tree/master/0664-strange-printer) |
