@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/chaitanya985/leetcode-solved/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/chaitanya985/leetcode-solved/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/chaitanya985/leetcode-solved/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-sliding-puzzle](https://github.com/chaitanya985/leetcode-solved/tree/master/0787-sliding-puzzle) |
 | [0816-design-hashset](https://github.com/chaitanya985/leetcode-solved/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/chaitanya985/leetcode-solved/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/chaitanya985/leetcode-solved/tree/master/0859-design-circular-deque) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/chaitanya985/leetcode-solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/chaitanya985/leetcode-solved/tree/master/0221-maximal-square) |
+| [0787-sliding-puzzle](https://github.com/chaitanya985/leetcode-solved/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/chaitanya985/leetcode-solved/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/chaitanya985/leetcode-solved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1380-number-of-closed-islands](https://github.com/chaitanya985/leetcode-solved/tree/master/1380-number-of-closed-islands) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/chaitanya985/leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/chaitanya985/leetcode-solved/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0787-sliding-puzzle](https://github.com/chaitanya985/leetcode-solved/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/chaitanya985/leetcode-solved/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/chaitanya985/leetcode-solved/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/chaitanya985/leetcode-solved/tree/master/1036-rotting-oranges) |
