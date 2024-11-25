@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chaitanya985/leetcode-solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/chaitanya985/leetcode-solved/tree/master/0645-set-mismatch) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/chaitanya985/leetcode-solved/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0729-my-calendar-i) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0731-my-calendar-ii) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/chaitanya985/leetcode-solved/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/chaitanya985/leetcode-solved/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0678-valid-parenthesis-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/chaitanya985/leetcode-solved/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/chaitanya985/leetcode-solved/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0867-new-21-game) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chaitanya985/leetcode-solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-new-21-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chaitanya985/leetcode-solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1046-max-consecutive-ones-iii) |
@@ -1061,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/chaitanya985/leetcode-solved/tree/master/0572-subtree-of-another-tree) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0816-design-hashset](https://github.com/chaitanya985/leetcode-solved/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/chaitanya985/leetcode-solved/tree/master/0817-design-hashmap) |
 ## Randomized
@@ -1092,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0214-shortest-palindrome) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Trie
 |  |
 | ------- |
