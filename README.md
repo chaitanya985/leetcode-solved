@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/chaitanya985/leetcode-solved/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/chaitanya985/leetcode-solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/chaitanya985/leetcode-solved/tree/master/1755-defuse-the-bomb) |
+| [1762-furthest-building-you-can-reach](https://github.com/chaitanya985/leetcode-solved/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chaitanya985/leetcode-solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chaitanya985/leetcode-solved/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/chaitanya985/leetcode-solved/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chaitanya985/leetcode-solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1762-furthest-building-you-can-reach](https://github.com/chaitanya985/leetcode-solved/tree/master/1762-furthest-building-you-can-reach) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/chaitanya985/leetcode-solved/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/chaitanya985/leetcode-solved/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/chaitanya985/leetcode-solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chaitanya985/leetcode-solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/chaitanya985/leetcode-solved/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/chaitanya985/leetcode-solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1762-furthest-building-you-can-reach](https://github.com/chaitanya985/leetcode-solved/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/chaitanya985/leetcode-solved/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2089-maximum-matrix-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/2089-maximum-matrix-sum) |
