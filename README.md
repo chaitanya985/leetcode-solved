@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/chaitanya985/leetcode-solved/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/chaitanya985/leetcode-solved/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/chaitanya985/leetcode-solved/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/chaitanya985/leetcode-solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/chaitanya985/leetcode-solved/tree/master/0787-sliding-puzzle) |
 | [0816-design-hashset](https://github.com/chaitanya985/leetcode-solved/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/chaitanya985/leetcode-solved/tree/master/0817-design-hashmap) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/chaitanya985/leetcode-solved/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chaitanya985/leetcode-solved/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/chaitanya985/leetcode-solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/chaitanya985/leetcode-solved/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chaitanya985/leetcode-solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/chaitanya985/leetcode-solved/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/chaitanya985/leetcode-solved/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/chaitanya985/leetcode-solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/chaitanya985/leetcode-solved/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/chaitanya985/leetcode-solved/tree/master/1002-maximum-width-ramp) |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chaitanya985/leetcode-solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/chaitanya985/leetcode-solved/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0780-max-chunks-to-make-sorted](https://github.com/chaitanya985/leetcode-solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/chaitanya985/leetcode-solved/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/chaitanya985/leetcode-solved/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/chaitanya985/leetcode-solved/tree/master/0941-sort-array-by-parity) |
@@ -806,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/chaitanya985/leetcode-solved/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0680-valid-palindrome-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/chaitanya985/leetcode-solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/chaitanya985/leetcode-solved/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/chaitanya985/leetcode-solved/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chaitanya985/leetcode-solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
