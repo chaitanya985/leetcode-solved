@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/chaitanya985/leetcode-solved/tree/master/0468-validate-ip-address) |
 | [0474-ones-and-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/chaitanya985/leetcode-solved/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0567-permutation-in-string) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/chaitanya985/leetcode-solved/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/chaitanya985/leetcode-solved/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/chaitanya985/leetcode-solved/tree/master/0647-palindromic-substrings) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chaitanya985/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/chaitanya985/leetcode-solved/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/chaitanya985/leetcode-solved/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/chaitanya985/leetcode-solved/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanya985/leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
