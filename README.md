@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/chaitanya985/leetcode-solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/chaitanya985/leetcode-solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/chaitanya985/leetcode-solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chaitanya985/leetcode-solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/chaitanya985/leetcode-solved/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/chaitanya985/leetcode-solved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/chaitanya985/leetcode-solved/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/chaitanya985/leetcode-solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/chaitanya985/leetcode-solved/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chaitanya985/leetcode-solved/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/chaitanya985/leetcode-solved/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/chaitanya985/leetcode-solved/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/chaitanya985/leetcode-solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chaitanya985/leetcode-solved/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/chaitanya985/leetcode-solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/chaitanya985/leetcode-solved/tree/master/1028-interval-list-intersections) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/chaitanya985/leetcode-solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chaitanya985/leetcode-solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/chaitanya985/leetcode-solved/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1923-sentence-similarity-iii) |
@@ -740,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/chaitanya985/leetcode-solved/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/chaitanya985/leetcode-solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chaitanya985/leetcode-solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/chaitanya985/leetcode-solved/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
