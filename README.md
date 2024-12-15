@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/chaitanya985/leetcode-solved/tree/master/1833-find-the-highest-altitude) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/chaitanya985/leetcode-solved/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/chaitanya985/leetcode-solved/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/chaitanya985/leetcode-solved/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/chaitanya985/leetcode-solved/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/chaitanya985/leetcode-solved/tree/master/1972-rotating-the-box) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chaitanya985/leetcode-solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1762-furthest-building-you-can-reach](https://github.com/chaitanya985/leetcode-solved/tree/master/1762-furthest-building-you-can-reach) |
+| [1917-maximum-average-pass-ratio](https://github.com/chaitanya985/leetcode-solved/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/chaitanya985/leetcode-solved/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/chaitanya985/leetcode-solved/tree/master/2164-two-best-non-overlapping-events) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/chaitanya985/leetcode-solved/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/chaitanya985/leetcode-solved/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/chaitanya985/leetcode-solved/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1917-maximum-average-pass-ratio](https://github.com/chaitanya985/leetcode-solved/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chaitanya985/leetcode-solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chaitanya985/leetcode-solved/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
