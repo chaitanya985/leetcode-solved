@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chaitanya985/leetcode-solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/chaitanya985/leetcode-solved/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/chaitanya985/leetcode-solved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chaitanya985/leetcode-solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaitanya985/leetcode-solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/chaitanya985/leetcode-solved/tree/master/1603-running-sum-of-1d-array) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/chaitanya985/leetcode-solved/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/chaitanya985/leetcode-solved/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chaitanya985/leetcode-solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chaitanya985/leetcode-solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/chaitanya985/leetcode-solved/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/chaitanya985/leetcode-solved/tree/master/2470-removing-stars-from-a-string) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/chaitanya985/leetcode-solved/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chaitanya985/leetcode-solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
