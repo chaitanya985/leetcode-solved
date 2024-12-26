@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/chaitanya985/leetcode-solved/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chaitanya985/leetcode-solved/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/chaitanya985/leetcode-solved/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0523-continuous-subarray-sum) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/chaitanya985/leetcode-solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/chaitanya985/leetcode-solved/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chaitanya985/leetcode-solved/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chaitanya985/leetcode-solved/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Matrix
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/chaitanya985/leetcode-solved/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/chaitanya985/leetcode-solved/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/chaitanya985/leetcode-solved/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/chaitanya985/leetcode-solved/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/chaitanya985/leetcode-solved/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/chaitanya985/leetcode-solved/tree/master/0664-strange-printer) |
