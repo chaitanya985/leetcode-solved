@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/chaitanya985/leetcode-solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaitanya985/leetcode-solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/chaitanya985/leetcode-solved/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1063-best-sightseeing-pair](https://github.com/chaitanya985/leetcode-solved/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/chaitanya985/leetcode-solved/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/chaitanya985/leetcode-solved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/chaitanya985/leetcode-solved/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/chaitanya985/leetcode-solved/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/chaitanya985/leetcode-solved/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/chaitanya985/leetcode-solved/tree/master/1086-divisor-game) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/chaitanya985/leetcode-solved/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1236-n-th-tribonacci-number](https://github.com/chaitanya985/leetcode-solved/tree/master/1236-n-th-tribonacci-number) |
