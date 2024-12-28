@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chaitanya985/leetcode-solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/chaitanya985/leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/chaitanya985/leetcode-solved/tree/master/0645-set-mismatch) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/chaitanya985/leetcode-solved/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanya985/leetcode-solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/chaitanya985/leetcode-solved/tree/master/0724-find-pivot-index) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/chaitanya985/leetcode-solved/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/chaitanya985/leetcode-solved/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/chaitanya985/leetcode-solved/tree/master/0678-valid-parenthesis-string) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/chaitanya985/leetcode-solved/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/chaitanya985/leetcode-solved/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/chaitanya985/leetcode-solved/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/chaitanya985/leetcode-solved/tree/master/0747-min-cost-climbing-stairs) |
